@@ -1,0 +1,10 @@
+name: crunchy-containers
+home: https://github.com/CrunchyData/crunchy-containers
+version: 1.4.1
+description: Crunchy Container Suite provides Docker containers that enable rapid deployment of PostgreSQL, including administration and monitoring tools.
+icon: https://raw.githubusercontent.com/CrunchyData/crunchy-containers/master/docs/crunchy_logo.png
+sources:
+  - https://github.com/CrunchyData/crunchy-containers
+maintainers:
+  - name: Juan Manuel Torres (Tedezed)
+    email: juanmanuel.torres@aventurabinaria.es
